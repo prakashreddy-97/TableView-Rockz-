@@ -9,7 +9,7 @@
 /* Begin PBXBuildFile section */
 		3FACD073221E304000D1C6FE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FACD072221E304000D1C6FE /* AppDelegate.swift */; };
 		3FACD075221E304000D1C6FE /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FACD074221E304000D1C6FE /* FirstViewController.swift */; };
-		3FACD077221E304000D1C6FE /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FACD076221E304000D1C6FE /* SecondViewController.swift */; };
+		3FACD077221E304000D1C6FE /* TouristSitesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FACD076221E304000D1C6FE /* TouristSitesViewController.swift */; };
 		3FACD07A221E304000D1C6FE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FACD078221E304000D1C6FE /* Main.storyboard */; };
 		3FACD07C221E304100D1C6FE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FACD07B221E304100D1C6FE /* Assets.xcassets */; };
 		3FACD07F221E304100D1C6FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FACD07D221E304100D1C6FE /* LaunchScreen.storyboard */; };
@@ -38,7 +38,7 @@
 		3FACD06F221E304000D1C6FE /* TableView Rockz!.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "TableView Rockz!.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3FACD072221E304000D1C6FE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		3FACD074221E304000D1C6FE /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		3FACD076221E304000D1C6FE /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
+		3FACD076221E304000D1C6FE /* TouristSitesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TouristSitesViewController.swift; sourceTree = "<group>"; };
 		3FACD079221E304000D1C6FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3FACD07B221E304100D1C6FE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3FACD07E221E304100D1C6FE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -101,7 +101,7 @@
 			children = (
 				3FACD072221E304000D1C6FE /* AppDelegate.swift */,
 				3FACD074221E304000D1C6FE /* FirstViewController.swift */,
-				3FACD076221E304000D1C6FE /* SecondViewController.swift */,
+				3FACD076221E304000D1C6FE /* TouristSitesViewController.swift */,
 				3FACD078221E304000D1C6FE /* Main.storyboard */,
 				3FACD07B221E304100D1C6FE /* Assets.xcassets */,
 				3FACD07D221E304100D1C6FE /* LaunchScreen.storyboard */,
@@ -259,7 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3FACD077221E304000D1C6FE /* SecondViewController.swift in Sources */,
+				3FACD077221E304000D1C6FE /* TouristSitesViewController.swift in Sources */,
 				3FACD073221E304000D1C6FE /* AppDelegate.swift in Sources */,
 				3FACD075221E304000D1C6FE /* FirstViewController.swift in Sources */,
 			);
